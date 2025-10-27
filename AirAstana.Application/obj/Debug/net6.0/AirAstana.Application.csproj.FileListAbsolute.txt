@@ -1,0 +1,17 @@
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\bin\Debug\net6.0\AirAstana.Application.deps.json
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\bin\Debug\net6.0\AirAstana.Application.dll
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\bin\Debug\net6.0\AirAstana.Application.pdb
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\bin\Debug\net6.0\AirAstana.Domain.dll
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\bin\Debug\net6.0\AirAstana.Infrastructure.dll
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\bin\Debug\net6.0\AirAstana.Domain.pdb
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\bin\Debug\net6.0\AirAstana.Infrastructure.pdb
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\AirAstana.Application.csproj.AssemblyReference.cache
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\AirAstana.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\AirAstana.Application.AssemblyInfoInputs.cache
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\AirAstana.Application.AssemblyInfo.cs
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\AirAstana.Application.csproj.CoreCompileInputs.cache
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\AirAstana.Application.csproj.CopyComplete
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\AirAstana.Application.dll
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\refint\AirAstana.Application.dll
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\AirAstana.Application.pdb
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Application\obj\Debug\net6.0\ref\AirAstana.Application.dll

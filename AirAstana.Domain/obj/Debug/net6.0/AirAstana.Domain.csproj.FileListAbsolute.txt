@@ -1,0 +1,12 @@
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\bin\Debug\net6.0\AirAstana.Domain.deps.json
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\bin\Debug\net6.0\AirAstana.Domain.dll
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\bin\Debug\net6.0\AirAstana.Domain.pdb
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\AirAstana.Domain.csproj.AssemblyReference.cache
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\AirAstana.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\AirAstana.Domain.AssemblyInfoInputs.cache
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\AirAstana.Domain.AssemblyInfo.cs
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\AirAstana.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\AirAstana.Domain.dll
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\refint\AirAstana.Domain.dll
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\AirAstana.Domain.pdb
+C:\Users\Yernur\Pictures\AirAstana\AirAstana.Domain\obj\Debug\net6.0\ref\AirAstana.Domain.dll

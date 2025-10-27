@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AirAstana.Domain/1.0.0": {
+        "runtime": {
+          "AirAstana.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AirAstana.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
