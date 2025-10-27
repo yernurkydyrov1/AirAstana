@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/AirAstana_logo.svg/2560px-AirAstana_logo.svg.png" alt="AirAstana Logo" width="300"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/5/50/AirAstana_logo.svg/2560px-AirAstana_logo.svg.png](https://cdn.freebiesupply.com/logos/thumbs/2x/air-astana-logo.png)" alt="AirAstana Logo" width="300"/>
 </p>
 
 # AirAstana API (Тестовое задание)
