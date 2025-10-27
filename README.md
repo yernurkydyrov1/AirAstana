@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AirAstana_Logo.png/600px-AirAstana_Logo.png" alt="AirAstana Logo" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Air_Astana_logo.svg/2560px-Air_Astana_logo.svg.png" alt="Air Astana Logo" width="300"/>
 </p>
 
 
